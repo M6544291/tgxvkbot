@@ -1,0 +1,699 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"equ",
+				"equals=\tparam"
+			],
+			[
+				"add",
+				"add_post\tabc"
+			],
+			[
+				"Ke",
+				"ReplyKeyboardMarkup\tclass"
+			],
+			[
+				"res",
+				"resize_keyboard=\tparam"
+			],
+			[
+				"reply",
+				"reply_markup=\tparam"
+			],
+			[
+				"T",
+				"TELEGRAM_BOT_TOKEN\tstatement"
+			],
+			[
+				"coun",
+				"country_name\tabc"
+			],
+			[
+				"W",
+				"WAIT_REGISTRATION_CODE_INTERVAL\tstatement"
+			],
+			[
+				"add_ca",
+				"add_chat_members\tfunction"
+			],
+			[
+				"PHOTO",
+				"PHOTOS_DIR"
+			],
+			[
+				"A",
+				"ALBUM_NAME\tstatement"
+			],
+			[
+				"PHO",
+				"PHOTOS_DIR\tstatement"
+			],
+			[
+				"WA",
+				"WAIT_REGISTRATION_CODE_SECONDS\tstatement"
+			],
+			[
+				"ur",
+				"urllib\tabc"
+			],
+			[
+				"SMS",
+				"SMS_SERVICE_TOKEN\t(config.py)"
+			],
+			[
+				"SMS_SER",
+				"SMS_SERVICE_PATH\t(smsservice.py)"
+			],
+			[
+				"a",
+				"authorize\tfunction"
+			],
+			[
+				"http",
+				"http_session\tabc"
+			],
+			[
+				"aut",
+				"authorize\tabc"
+			],
+			[
+				"pass",
+				"password\tabc"
+			],
+			[
+				"auth",
+				"authorize\t(auth.py)"
+			],
+			[
+				"CL",
+				"CLIENT_SECRET\tstatement"
+			],
+			[
+				"user",
+				"useragent\t(main.py)"
+			],
+			[
+				"USE",
+				"USERAGENTS_FILE\tstatement"
+			],
+			[
+				"proxy",
+				"proxymanager\tabc"
+			],
+			[
+				"prox",
+				"proxy_dict\tstatement"
+			],
+			[
+				"US",
+				"USE_MOBILE_PROXY\tstatement"
+			],
+			[
+				"MO",
+				"MOBILE_PROXY_LOGIN_AND_PASS\tstatement"
+			],
+			[
+				"MOB",
+				"MOBILE_PROXY_ID\tstatement"
+			],
+			[
+				"HTTP",
+				"HTTPProxyAuth\tclass"
+			],
+			[
+				"MOBI",
+				"MOBILE_PROXY_ID\tstatement"
+			],
+			[
+				"inp",
+				"input_keyevent\tfunction"
+			],
+			[
+				"get",
+				"get_number\tfunction"
+			],
+			[
+				"regis",
+				"register_account_with_youla\tabc"
+			],
+			[
+				"Sms",
+				"SmsHubStatuses\tabc"
+			],
+			[
+				"Sm",
+				"SmsHubStatuses\tclass"
+			],
+			[
+				"acti",
+				"activation_id\tabc"
+			],
+			[
+				"st",
+				"staticmethod\tabc"
+			],
+			[
+				"gene",
+				"generate_password\tfunction"
+			],
+			[
+				"gener",
+				"generate_birthday\t(vkapi.py)"
+			],
+			[
+				"split",
+				"splitlines\tfunction"
+			],
+			[
+				"g",
+				"generate_password"
+			],
+			[
+				"ty",
+				"typing\tmodule"
+			],
+			[
+				"ca",
+				"captcha_link=\tparam"
+			],
+			[
+				"CLIE",
+				"CLIENT_ID\t(vkapi.py)"
+			],
+			[
+				"anti",
+				"anticaptcha_key=\tparam"
+			],
+			[
+				"c",
+				"captcha_handler"
+			],
+			[
+				"ge",
+				"get_result_url\tstatement"
+			],
+			[
+				"e",
+				"enter_to_login_page\tfunction"
+			],
+			[
+				"input_",
+				"input_swipe\tfunction"
+			],
+			[
+				"act",
+				"activation_id\tabc"
+			],
+			[
+				"numb",
+				"numbers_count\tabc"
+			],
+			[
+				"min_",
+				"min_price\tabc"
+			],
+			[
+				"api_",
+				"api_key\tabc"
+			],
+			[
+				"start",
+				"app_start"
+			],
+			[
+				"SMSHUB",
+				"SMSHUB_TOKEN\t(config.py)"
+			],
+			[
+				"Se",
+				"session"
+			],
+			[
+				"error",
+				"error_handler\tabc"
+			],
+			[
+				"excep",
+				"exceptions\tmodule"
+			],
+			[
+				"time",
+				"timeout=\tparam"
+			],
+			[
+				"Union",
+				"Union\tclass"
+			],
+			[
+				"re",
+				"resource\tabc"
+			],
+			[
+				"devices",
+				"devices\tstatement"
+			],
+			[
+				"get_",
+				"get_terminal_size\tfunction"
+			],
+			[
+				"y",
+				"YELLOW\tstatement"
+			],
+			[
+				"msg",
+				"msg\tparam"
+			],
+			[
+				"print",
+				"print_success\tabc"
+			],
+			[
+				"raid",
+				"raid_config\tabc"
+			],
+			[
+				"raid_co",
+				"raid_configs\tabc"
+			],
+			[
+				"ra",
+				"raid_configs\tabc"
+			],
+			[
+				"rao",
+				"raid_config\tabc"
+			],
+			[
+				"args",
+				"args\tabc"
+			],
+			[
+				"co",
+				"config_name\tabc"
+			],
+			[
+				"conf",
+				"conf_name\t(settings.json)"
+			],
+			[
+				"RE",
+				"RESET_ALL\tstatement"
+			],
+			[
+				"set",
+				"settings\tabc"
+			],
+			[
+				"repl",
+				"repl_python_run\t(Main.sublime-menu)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config.py",
+			"settings":
+			{
+				"buffer_size": 58,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 1268,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/Python-REPL.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SublimeREPL/Python-REPL.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"anaconda",
+				"Anaconda: Rename object under cursor"
+			],
+			[
+				"ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/json1c/python-scripts/youla-autoreger",
+		"/home/json1c/python-scripts/youla-autoreger/assets",
+		"/home/json1c/python-scripts/youla-autoreger/modules",
+		"/home/json1c/python-scripts/youla-autoreger/services"
+	],
+	"file_history":
+	[
+		"/home/json1c/.config/sublime-text-3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/home/json1c/python-scripts/tg-to-vk/tg-to-vk.sublime-project",
+		"/home/json1c/Загрузки/Telegram Desktop/index (2).php",
+		"/home/json1c/python-scripts/youla-autoreger/config.py",
+		"/home/json1c/python-scripts/youla-autoreger/modules/adb.py",
+		"/home/json1c/python-scripts/youla-autoreger/main_gui.py",
+		"/home/json1c/python-scripts/msg/main.py",
+		"/home/json1c/python-scripts/tg-inviter/main.py",
+		"/home/json1c/python-scripts/youla-autoreger/modules/vkapi.py",
+		"/home/json1c/python-scripts/youla-autoreger/services/cheapsms.py",
+		"/home/json1c/python-scripts/youla-autoreger/services/smshub.py",
+		"/home/json1c/Загрузки/Telegram Desktop/feedback_tg_bot-main/bot.py",
+		"/home/json1c/Загрузки/Telegram Desktop/feedback_tg_bot/bot.py",
+		"/home/json1c/python-scripts/youla-autoreger/main.py",
+		"/home/json1c/python-scripts/youla-autoreger/modules/proxymanager.py",
+		"/home/json1c/python-scripts/youla-autoreger/assets/proxy.txt",
+		"/home/json1c/Загрузки/Telegram Desktop/Creator by - KrasProejct-2021.bat",
+		"/home/json1c/python-scripts/youla-autoreger/modules/auth.py",
+		"/home/json1c/python-scripts/youla-autoreger/services/smsservice.py",
+		"/home/json1c/python-scripts/gay-vk/config.py",
+		"/home/json1c/python-scripts/gay-vk/main.py",
+		"/home/json1c/python-scripts/youla-autoreger/modules/smshub.py",
+		"/home/json1c/Загрузки/Telegram Desktop/HTTP-FLOOD.py",
+		"/home/json1c/private/style.kv",
+		"/home/json1c/Рабочий стол/private/StructService.py",
+		"/home/json1c/Рабочий стол/private/StructService.pyc",
+		"/home/json1c/Рабочий стол/private/StructPacket.py",
+		"/home/json1c/Рабочий стол/private/dist/StructService.py",
+		"/home/json1c/Рабочий стол/private/dist/data.py",
+		"/home/json1c/Рабочий стол/private/dist/main.py",
+		"/home/json1c/Рабочий стол/private/dist/sitecustomize.py",
+		"/home/json1c/python-scripts/youla-autoreger/assets/useragents.txt",
+		"/home/json1c/Загрузки/Telegram Desktop/please.py",
+		"/home/json1c/python-scripts/youla-autoreger/autoreger.log",
+		"/home/json1c/Загрузки/captcha.guru_anti.bat",
+		"/home/json1c/python-scripts/youla-autoreger/names/female_names.txt",
+		"/home/json1c/python-scripts/youla-autoreger/names/female_surnames.txt",
+		"/home/json1c/notifications.py",
+		"/home/json1c/b.txt",
+		"/home/json1c/python-scripts/youla-autoreger/requirements.txt",
+		"/home/json1c/python-scripts/vk-botnet/assets/modules/bot.py",
+		"/home/json1c/python-scripts/vk-botnet/assets/modules/defs.py",
+		"/home/json1c/python-scripts/vk-botnet/botnet.py",
+		"/home/json1c/python-scripts/youla-autoreger/adb.py",
+		"/home/json1c/Загрузки/autoreger vk/proxyes.txt",
+		"/home/json1c/Загрузки/autoreger vk/utils.py",
+		"/home/json1c/Загрузки/autoreger vk/autoReger.py",
+		"/home/json1c/python-scripts/vk-botnet/assets/configs/settings.json",
+		"/home/json1c/python-scripts/vk-botnet/assets/modules/antikick.py",
+		"/home/json1c/python-scripts/vk-botnet/assets/modules/main_bot.py",
+		"/home/json1c/command",
+		"/home/json1c/python-scripts/vk-botnet/assets/configs/tokens.txt",
+		"/home/json1c/python-scripts/reklama/main.py",
+		"/home/json1c/python-scripts/reklama/config.ini",
+		"/home/json1c/pizzahut.ru/index.html",
+		"/home/json1c/python-scripts/tiktok/main.py",
+		"/home/json1c/python-scripts/5ka/api5ka.py",
+		"/home/json1c/.config/sublime-text-3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/home/json1c/.config/sublime-text-3/Packages/SublimeREPL/Python-REPL.sublime-build",
+		"/home/json1c/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/json1c/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/json1c/python-scripts/autocall/main.py"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"exit(0)",
+			"service",
+			"smshub",
+			"ids",
+			"vk",
+			"event"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sys.exit()",
+			"service"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 58,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								615,
+								615
+							]
+						],
+						"settings":
+						{
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 130.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 122.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "tg-to-vk.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
